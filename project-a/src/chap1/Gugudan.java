@@ -16,6 +16,8 @@ public class Gugudan {
 		int i = sc.nextInt();
 
 		printDan(i);
+		
+		//change
 
 	}
 
